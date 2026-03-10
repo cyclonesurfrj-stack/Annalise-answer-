@@ -1,0 +1,24 @@
+{
+  "name": "BLACK SHARK INNOVATION",
+  "short_name": "Black Shark",
+  "description": "Plataforma avançada de auditoria e inteligência artificial da Black Shark Innovation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/blackshark/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/blackshark/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

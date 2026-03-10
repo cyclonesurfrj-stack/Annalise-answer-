@@ -1,0 +1,5 @@
+{
+  "name": "NEXUS Dissonance Detector",
+  "description": "Ferramenta analítica de segurança cibernética para monitoramento de intrigas geradas por LLMs.",
+  "requestFramePermissions": []
+}
